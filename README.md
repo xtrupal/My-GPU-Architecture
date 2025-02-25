@@ -3,11 +3,7 @@
 =============== GPU Device 0: NVIDIA GeForce RTX 3050 Laptop GPU ===============
 
 [General Information]  
-CUDA Device Number: 0  
-Device Name: NVIDIA GeForce RTX 3050 Laptop GPU  
-PCI Bus ID: 1  
-PCI Device ID: 0  
-PCI Domain ID: 0
+Device Name: NVIDIA GeForce RTX 3050 Laptop GPU
 
 [Compute Capability]  
 Compute Capability: 8.6
@@ -33,16 +29,9 @@ Clock Rate: 1500.00 MHz
 
 [Features and Capabilities]  
 Concurrent Kernels: Yes  
-Integrated GPU: No  
-Can Map Host Memory: Yes  
-ECC Support Enabled: No  
 Unified Addressing (UVA): Yes  
 Managed Memory Support: Yes  
 Compute Preemption Support: Yes
-
-[Async Properties]  
-Async Engine Count: 1  
-Kernel Exec Timeout: Yes
 
 ===============================================================
 
