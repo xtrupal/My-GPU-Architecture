@@ -1,4 +1,4 @@
-# My-GPU-Architecture
+# My GPU Specifications: NVIDIA GeForce RTX 3050 Laptop GPU
 
 =============== GPU Device 0: NVIDIA GeForce RTX 3050 Laptop GPU ===============
 
@@ -46,4 +46,4 @@ Kernel Exec Timeout: Yes
 
 ===============================================================
 
-hope it helps!
+Hope it is helpful!
