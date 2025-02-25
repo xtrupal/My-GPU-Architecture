@@ -46,4 +46,6 @@ Kernel Exec Timeout: Yes
 
 ===============================================================
 
+For a visualization of the GPU architecture, visit: [GPU Architecture Visualization](https://xtrupal.github.io/My-GPU-Architecture/)
+
 Hope it is helpful!
